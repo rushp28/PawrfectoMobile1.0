@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#0f0f0f"
+  image: assets/logos/pawrfecto_splash_logo_light.png
+  image_dark: assets/logos/pawrfecto_splash_logo_dark.png
+
+  android_12:
+    color: "#ffffff"
+    color_dark: "#0f0f0f"
+    image: assets/logos/pawrfecto_splash_logo_light.png
+    image_dark: assets/logos/pawrfecto_splash_logo_dark.png
+
+  web: false

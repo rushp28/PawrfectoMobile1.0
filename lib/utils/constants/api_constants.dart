@@ -1,0 +1,4 @@
+// API Constants
+class TApiConstants {
+
+}
