@@ -3,6 +3,8 @@ import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:pawrfecto/features/personalization/screens/settings/settings.dart';
 import 'package:pawrfecto/features/shop/screens/home/home.dart';
+import 'package:pawrfecto/features/shop/screens/pets/pet.dart';
+import 'package:pawrfecto/features/shop/screens/store/store.dart';
 import 'package:pawrfecto/utils/constants/colors.dart';
 import 'package:pawrfecto/utils/helpers/helper_functions.dart';
 
@@ -37,7 +39,7 @@ class NavigationMenu extends StatelessWidget {
             ),
             NavigationDestination(
               icon: Icon(Iconsax.heart),
-              label: 'Wishlist',
+              label: 'Your Buddies',
             ),
             NavigationDestination(
               icon: Icon(Iconsax.user),
@@ -58,9 +60,8 @@ class NavigationController extends GetxController {
 
   final screens = [
     HomeScreen(),
-    Container(color: Colors.purple),
-    Container(color: Colors.orange),
+    StoreScreen(),
+    PetsScreen(),
     const SettingsScreen(),
   ];
 }
-

@@ -63,6 +63,8 @@ dependencies:
   get: ^4.6.5
   get_storage: ^2.1.1
 
+  geolocator: ^8.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -94,6 +96,7 @@ flutter:
     - assets/images/banners/
     - assets/images/products/
     - assets/images/content/
+    - assets/images/pets/
     - assets/json_data/
     - assets/logos/
 

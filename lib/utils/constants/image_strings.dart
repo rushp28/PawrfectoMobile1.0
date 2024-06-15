@@ -56,4 +56,12 @@ class TImageStrings {
 
   // User Images
   static const String user = "assets/images/content/user.png";
+
+  static const String pet1 = "assets/images/pets/max.jpg";
+  static const String pet2 = "assets/images/pets/bella.jpeg";
+  static const String pet3 = "assets/images/pets/charlie.jpeg";
+  static const String pet4 = "assets/images/pets/luna.jpeg";
+  static const String pet5 = "assets/images/pets/oliver.jpg";
+  static const String pet6 = "assets/images/pets/lucy.jpg";
+
 }
