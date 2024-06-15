@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Pet Shampoo - Yellow",
+    "seller": "Boop",
+    "price": "2.5K",
+    "image": "assets/images/products/boop-shampoo-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Pet Shampoo - Red",
+    "seller": "Boop",
+    "price": "3.5K",
+    "image": "assets/images/products/boop-shampoo-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Dog Food Treats",
+    "seller": "Lem",
+    "price": "4.5K",
+    "image": "assets/images/products/dog-food.png"
+  },
+  {
+    "id": 4,
+    "title": "Pet Shampoo - Black",
+    "seller": "Boop",
+    "price": "1.5K",
+    "image": "assets/images/products/boop-shampoo-3.png"
+  }
+]
